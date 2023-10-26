@@ -10,11 +10,14 @@
 双击wy_cloud.exe运行即可
 
 ### Linux运行
-如有可执行权限，此处省略
+1. 如有可执行权限，此处省略
+``` shell
 chmod +x wy_cloud.bin
-运行：
+```
+2. 运行
+``` shell
 ./wy_cloud.bin
-
+```
 ### 请喝茶吗
 
 | 支付宝                                                                                     | 微信                                                                                    | 群                |

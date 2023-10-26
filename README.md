@@ -18,6 +18,7 @@ chmod +x wy_cloud.bin
 ``` shell
 ./wy_cloud.bin
 ```
+![image](https://github.com/HG-ha/wy_cloud/assets/60115106/e15a26dd-1bd8-41e7-aef9-2b79b9f274bf)
 ### 请喝茶吗
 
 | 支付宝                                                                                     | 微信                                                                                    | 群                |
